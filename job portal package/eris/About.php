@@ -187,7 +187,7 @@
 										<img class="img-responsive" src="img/team4.jpg" alt="">
 										<!-- Name -->
 										<h4>Rishi Goswami</h4>
-										<h4>Satish</h4>
+										
 										<span class="deg">Manager</span> 
 									</div>
 								</div>
