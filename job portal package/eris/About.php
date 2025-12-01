@@ -10,6 +10,8 @@
 				<div class="col-md-6">
 					<div class="about-text">
 						<h3>Our Site</h3>
+						
+						 <p>Our portal brings together candidates from various fields and industries, offering them access to thousands of job openings from reputable companies. Whether you are a fresh graduate looking to start your career or an experienced professional seeking growth, our platform provides reliable tools and resources to guide you every step of the way...</p>
 						<p>Welcome to our Job Portal – a trusted platform created to connect talented job seekers with the right opportunities and help employers find skilled professionals with ease. We understand that searching for a job or hiring the right candidate can be challenging, time-consuming, and sometimes overwhelming. That’s why our mission is simple: to make the recruitment process faster, easier, and more effective for everyone.</p>
 						 <p>Our portal brings together candidates from various fields and industries, offering them access to thousands of job openings from reputable companies. Whether you are a fresh graduate looking to start your career or an experienced professional seeking growth, our platform provides reliable tools and resources to guide you every step of the way...</p>
 					</div>
@@ -185,6 +187,7 @@
 										<img class="img-responsive" src="img/team4.jpg" alt="">
 										<!-- Name -->
 										<h4>Rishi Goswami</h4>
+										<h4>Satish</h4>
 										<span class="deg">Manager</span> 
 									</div>
 								</div>
