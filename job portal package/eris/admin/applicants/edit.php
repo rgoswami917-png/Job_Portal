@@ -112,7 +112,7 @@
                                   </select> ';
        break;
 
-     case 'Probationary':
+     case 'Probationary': //'Regular':
        # code...
          $workstatus='
          <select class="form-control input-sm" name="WORKSTATS" id="WORKSTATS">

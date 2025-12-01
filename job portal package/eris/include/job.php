@@ -4,6 +4,16 @@ require_once(LIB_PATH . DS . 'database.php');
 class Jobs {
 
     protected static $tblname = "tbljob";
+    
+    public $JOBID;
+    public $JOBTITLE;
+    public $JOBDESCRIPTION;
+    public $JOBCATEGORY;
+    public $JOBTYPE;
+    public $JOBSALARY;
+    public $JOBDEADLINE;
+    public $JOBCREATEDDATE;
+    public $JOBSTATUS;
 
     /** Get all DB fields **/
     function dbfields() {
