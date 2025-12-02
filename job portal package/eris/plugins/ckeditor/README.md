@@ -96,19 +96,21 @@ Specify a license (e.g., MIT) in LICENSE file.
 ## Contact
 Maintainer: your-email@example.com
 
+
 ## Developed by
-- Harsh
-- Rishi
-- Satish
+- Harsh 👨‍💻
+- Rishi 👨‍💻
+- Satish 👨‍💻
 
 ## Useful links
-- Repository: https://github.com/rgoswami917-png/Job_Portal
-- Issues & Bug tracker: https://github.com/rgoswami917-png/Job_Portal/issues
-- Composer (PHP dependency manager): https://getcomposer.org/
-- PHP documentation: https://www.php.net/docs.php
-- Laravel documentation: https://laravel.com/docs
-- MySQL documentation: https://dev.mysql.com/doc/
-- Docker documentation: https://docs.docker.com/
-- dotenv (manage .env files): https://github.com/motdotla/dotenv
-- GitHub Actions (CI): https://docs.github.com/actions
-- License help & templates: https://choosealicense.com/
+- 🔗 Repository: https://github.com/rgoswami917-png/Job_Portal
+- 🐞 Issues & Bug tracker: https://github.com/rgoswami917-png/Job_Portal/issues
+- 🧩 Composer (PHP dependency manager): https://getcomposer.org/
+- 📘 PHP documentation: https://www.php.net/docs.php
+- 🧭 Laravel documentation: https://laravel.com/docs
+- 🐬 MySQL documentation: https://dev.mysql.com/doc/
+- 🐳 Docker documentation: https://docs.docker.com/
+- 🔐 dotenv (manage .env files): https://github.com/motdotla/dotenv
+- ⚙️ GitHub Actions (CI): https://docs.github.com/actions
+- 📄 License help & templates: https://choosealicense.com/
+// ...existing code...
